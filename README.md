@@ -4,7 +4,7 @@ A group porject with Chris, Adam, Beth and AJ. My main contribution is with the 
 
 For better result, can also calibrate the position of the cube with the script in calibration folder. The images in the folder shows the past calibration results. 
 
-## Running the programme (without Webcom):
+## Running the programme (without Webcam):
 Comment out the following code in colourRegHSV.py
 ```
 #when connected to camera
